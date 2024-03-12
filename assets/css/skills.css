@@ -6,7 +6,7 @@
 .skills .tools ul {
     display: flex;
     flex-direction: row;
-    justify-content: flex-start;
+    justify-content: flex-start; 
     align-items: center;
     flex-wrap: wrap;
     margin: 0;
